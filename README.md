@@ -1,5 +1,3 @@
-<video src="./video.mp4" controls="true"></video>
-
 ![javascript](https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat)
 
 ##### 【注意】これを使用して発生した一切の責任を負いません
