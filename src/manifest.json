@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "study",
+  "version": "1.0.0",
+  "description": "study",
+  "permissions": ["storage", "tabs", "activeTab","scripting","history"],
+  "action": {
+    "default_icon": {
+        "16": "./icon.png",
+        "48": "./icon.png",
+        "128": "./icon.png"
+    },
+    "default_popup": "./popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://learn.studysapuri.jp/*"],
+      "js": ["./content.js"]
+    }
+  ],
+  "background": {
+    "service_worker": "./background.js"
+  }
+}
