@@ -9,6 +9,7 @@
 
 #### 規制された時用の別url一覧
 ・[ファイルなう](https://d.kuku.lu/upctyb3tn)
+・[ギガファイル便](https://116.gigafile.nu/1110-cba1ae19697f2d19b089fcdd8770ab605)
 
 ## 2.解凍||展開
 downloadしたファイルを解凍||展開する。
