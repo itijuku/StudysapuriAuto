@@ -1,3 +1,5 @@
+<font color="#00bfff">水色の文字</font>
+
 ### 【スタディサプリ自動化chrome拡張】
 
 ## 1.downlaod
