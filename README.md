@@ -7,6 +7,8 @@
 ## 1.downlaod
 [url](https://itijuku.github.io/StudysapuriAuto/)にアクセスし、zipファイルをdownload
 
+### 規制された時用の別url一覧
+・[ファイルなう](https://d.kuku.lu/upctyb3tn)
 
 ## 2.解凍||展開
 downloadしたファイルを解凍||展開する。
