@@ -1,9 +1,9 @@
-<font color="#00bfff">水色の文字</font>
+##### 【注意】これを使用して発生した一切の責任を負いません
 
-### 【スタディサプリ自動化chrome拡張】
+# 【スタディサプリ自動化chrome拡張】
 
 ## 1.downlaod
-[access](https://itijuku.github.io/StudysapuriAuto/)
+[url](https://itijuku.github.io/StudysapuriAuto/)にアクセスし、zipファイルをdownload
 
 
 ## 2.解凍||展開
