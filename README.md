@@ -20,7 +20,7 @@ downloadしたファイルを解凍||展開する。
 google chromeで[chrome://extensions](chrome://extensions)にアクセスし、右上の「デベロッパモード/developer mode」をオンにする。
 
 ## 4.拡張機能実装
-先ほどaccessした[chrome://extensions](chrome://extensions)の左上の「パッケージ化されていない拡張機能を読み込む」を押し、
+先ほどアクセスした[chrome://extensions](chrome://extensions)の左上の「パッケージ化されていない拡張機能を読み込む」を押し、
 先ほど解凍||展開したsrcフォルダの中身を選択する。
 
 ## 5.使う
